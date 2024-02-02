@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://www.opencti.io"><img src="https://www.filigran.io/wp-content/uploads/2023/08/opencti_github.png" alt="OpenCTI"></a>
 </h1>
+
 <p align="center">
   <a href="https://www.opencti.io" alt="Website"><img src="https://img.shields.io/badge/website-opencti.io-blue.svg" /></a>
   <a href="https://docs.opencti.io" alt="Documentation"><img src="https://img.shields.io/badge/documentation-latest-orange.svg" /></a>
